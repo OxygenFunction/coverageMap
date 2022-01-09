@@ -1,3 +1,5 @@
+## Propagation & Interpolation  
+
 ### get_cellID.m
 
 Convert the latitude and longitude coordinates into a function of the corresponding cell ID
@@ -65,4 +67,16 @@ A function that fits a curve of a semi-variance function
 Input: (distance, semi-variance)
 
 Output: fit_result
+
+
+
+## Machine Learning
+
+see **UsingRegressionApp.md**
+
+
+
+## Final Report
+
+See **Signal Coverage Maps Using Measurements and Machine Learning.pdf**
 
